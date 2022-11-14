@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Responsive webpage of linux.cc.iitk.ac.in**
 
-- 🌱 I’m currently learning **javascript, CSS, HTML, Linux and ReactJS**
+- 🌱 I’m currently learning **javascript, CSS, HTML and RHCSA**
 
 - 📫 How to reach me **dnrajput@iitk.ac.in, devendrarjpt3@gmail.com**
 
