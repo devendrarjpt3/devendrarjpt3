@@ -3,6 +3,12 @@
 <h2>Project Associate at IIT Kanpur
 Linux System Administrator | Flutter Developer | Android App Developer</h2>
 <h3 align="center">Passionate Linux System Administrator, Flutter Developer and Open Source Enthusiast from India.</h3>
+
+<h1 align="center">Hi, I'm Devendra Rajput 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devendrarjpt3&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 - 🔭 I’m currently working on **Responsive webpage of linux.cc.iitk.ac.in**
 
 - 🌱 I’m currently learning **javascript, CSS, HTML, RHCSA and DART**
