@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Devendra Rajput 👋
 
-Senior Project Associate at IIT Kanpur
+Sr Project Associate at IIT Kanpur
 Linux System Administrator | Flutter Developer | Windows Administrator</h1>
 <h3 align="center">A passionate frontend developer at IIT Kanpur UP India</h3>
 
