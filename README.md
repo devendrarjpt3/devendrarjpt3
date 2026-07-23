@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Devendra Rajput 👋
+<h1 align="center">Hi, I'm Devendra Rajput 👋</h1>
 
-Sr. Project Associate at IIT Kanpur
-Linux System Administrator | Flutter Developer  | dart programmer| App Developer</h1>
+<h2>Sr. Project Associate at IIT Kanpur
+Linux System Administrator | Flutter Developer  | dart programmer| Android App Developer</h2>
 <h3 align="center">A passionate frontend developer at IIT Kanpur UP India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendrarjpt3&label=Profile%20views&color=0e75b6&style=flat" alt="devendrarjpt3" /> </p>
@@ -12,7 +12,7 @@ Linux System Administrator | Flutter Developer  | dart programmer| App Developer
 
 - 🔭 I’m currently working on **Responsive webpage of linux.cc.iitk.ac.in**
 
-- 🌱 I’m currently learning **javascript, CSS, HTML and RHCSA**
+- 🌱 I’m currently learning **javascript, CSS, HTML, RHCSA and DART**
 
 - 📫 How to reach me **dnrajput@iitk.ac.in, devendrarjpt3@gmail.com**
 - 📫 Connect my github webpage  https://devendrarjpt3.github.io/devprofile/
