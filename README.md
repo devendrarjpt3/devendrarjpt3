@@ -18,7 +18,7 @@ Linux System Administrator | Flutter Developer  | dart programmer| Android App D
 - 📫 Connect my github webpage  https://devendrarjpt3.github.io/devprofile/
 
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **⚡ Passionate about Linux Automation, Flutter Development and System Administration.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
