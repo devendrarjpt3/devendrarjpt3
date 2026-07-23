@@ -4,7 +4,6 @@
 Linux System Administrator | Flutter Developer | Android App Developer</h2>
 <h3 align="center">Passionate Linux System Administrator, Flutter Developer and Open Source Enthusiast from India.</h3>
 
-<a href="https://komarev.com/ghpvc/?username=devendrarjpt3&label=Profile%20views&color=0e75b6&style=flat</a>
 - 🔭 I’m currently working on **Responsive webpage of linux.cc.iitk.ac.in**
 
 - 🌱 I’m currently learning **javascript, CSS, HTML, RHCSA and DART**
