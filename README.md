@@ -3,10 +3,6 @@
 <h2>Project Associate at IIT Kanpur
 Linux System Administrator | Flutter Developer | Android App Developer</h2>
 <h3 align="center">Passionate Linux System Administrator, Flutter Developer and Open Source Enthusiast from India.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devendrarjpt3" alt="devendrarjpt3" /></a> </p>
-
-
-
 - 🔭 I’m currently working on **Responsive webpage of linux.cc.iitk.ac.in**
 
 - 🌱 I’m currently learning **javascript, CSS, HTML, RHCSA and DART**
